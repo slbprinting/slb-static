@@ -588,7 +588,7 @@ div iframe {
     left: 0;
 }
 
-.content img {
+#content img {
 	max-width: 100%;
 	height: auto;
 }
